@@ -1,16 +1,23 @@
 # loja_virtual
 
-A new Flutter project.
+<hr/>
 
-## Getting Started
+# Sobre:
+- App de uma loja virtal.<br>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Download do app:
+https://drive.google.com/file/d/1PdQuv6rt8rrCd0KnAyDgiNfQ-v0jdNjH/view?usp=sharing
+- Obs: como o app não esta na loja, será necessario baixar a apk diretamente e aceitar a instalação ao clicar no link.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Imagens:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Captura de Tela 2021-07-26 às 18 35 06](https://user-images.githubusercontent.com/76439349/127063331-94af2594-f5ec-4def-b29d-02302d77fdd1.png)
+
+![Captura de Tela 2021-07-26 às 18 35 24](https://user-images.githubusercontent.com/76439349/127063354-15fb967d-a523-4d71-8b70-7d672cb0e009.png)
+
+![Captura de Tela 2021-07-26 às 18 36 46](https://user-images.githubusercontent.com/76439349/127063376-171e3b73-0dea-4ec0-8da3-bb9dd1bef7fb.png)
+
+
+
+
